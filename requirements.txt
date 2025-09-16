@@ -1,0 +1,11 @@
+pypots
+torch>=1.10.0
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tensorboard
+fancyimpute
+hyperimpute
